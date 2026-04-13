@@ -1,0 +1,2 @@
+import{A as a}from"./main-gDsjMNKJ.js";const d=(e,t)=>a.request({url:`/admin/device-management/${e}/edit`,method:"POST",data:t}),i=e=>a.request({url:`/admin/device-management/${e}/info`,method:"GET"}),m=(e,t)=>a.request({url:`/admin/device-management/${e}/update-status`,method:"POST",data:t}),n=(e,t)=>a.request({url:`/admin/device-management/grid/${e}/grid-update-status`,method:"POST",data:t}),u=e=>a.request({url:"/admin/device-management/list",method:"GET",params:e});export{i as a,n as b,d as e,u as g,m as u};
+//# sourceMappingURL=index-DpUD-pPW.js.map

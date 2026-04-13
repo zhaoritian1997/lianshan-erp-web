@@ -1,0 +1,1 @@
+{"version":3,"file":"RevenueStatistics-jLt4Durv.js","sources":["../../src/pages/statistics/RevenueStatistics.tsx"],"sourcesContent":["const RevenueStatistics = () => {\n  return <div>营收统计</div>\n}\n\nexport default RevenueStatistics\n"],"names":["RevenueStatistics","jsx"],"mappings":"kGAAA,MAAMA,EAAoB,IACjBC,EAAAA,IAAC,OAAI,SAAA,MAAA,CAAI"}

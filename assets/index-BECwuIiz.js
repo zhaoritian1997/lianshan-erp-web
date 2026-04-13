@@ -1,0 +1,2 @@
+import{A as t}from"./main-gDsjMNKJ.js";const e=o=>t.request({url:`/admin/goods/${o}/detail`,method:"GET"}),a=(o,s)=>t.request({url:`/admin/goods/${o}/update-status`,method:"POST",data:s}),u=o=>t.request({url:"/admin/goods/add-new-goods",method:"POST",data:o}),r=(o,s)=>t.request({url:`/admin/goods/${o}/edit`,method:"POST",data:s}),i=o=>t.request({url:"/admin/goods/batch-update-status",method:"POST",data:o}),m=o=>t.request({url:"/admin/goods/list",method:"GET",params:o});export{e as a,i as b,u as c,r as e,m as g,a as u};
+//# sourceMappingURL=index-BECwuIiz.js.map

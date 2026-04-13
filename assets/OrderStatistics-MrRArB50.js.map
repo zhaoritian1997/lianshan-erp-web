@@ -1,0 +1,1 @@
+{"version":3,"file":"OrderStatistics-MrRArB50.js","sources":["../../src/pages/statistics/OrderStatistics.tsx"],"sourcesContent":["const OrderStatistics = () => {\n  return <div>订单统计</div>\n}\n\nexport default OrderStatistics\n"],"names":["OrderStatistics","jsx"],"mappings":"kGAAA,MAAMA,EAAkB,IACfC,EAAAA,IAAC,OAAI,SAAA,MAAA,CAAI"}

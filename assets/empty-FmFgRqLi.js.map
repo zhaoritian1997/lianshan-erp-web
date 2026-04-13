@@ -1,0 +1,1 @@
+{"version":3,"file":"empty-FmFgRqLi.js","sources":["../../src/__mocks__/empty.js"],"sourcesContent":["// 空模块 - 用于替代 Node.js 内置模块在浏览器环境中的引用\n// 防止 Vite 在构建时发出 \"Module has been externalized\" 警告\nexport default {}\n"],"names":["empty"],"mappings":"AAEA,MAAAA,EAAe,CAAA"}

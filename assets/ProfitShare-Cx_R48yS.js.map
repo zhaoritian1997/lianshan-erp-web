@@ -1,0 +1,1 @@
+{"version":3,"file":"ProfitShare-Cx_R48yS.js","sources":["../../src/pages/statistics/ProfitShare.tsx"],"sourcesContent":["const ProfitShare = () => {\n  return <div>分润明细</div>\n}\n\nexport default ProfitShare\n"],"names":["ProfitShare","jsx"],"mappings":"kGAAA,MAAMA,EAAc,IACXC,EAAAA,IAAC,OAAI,SAAA,MAAA,CAAI"}

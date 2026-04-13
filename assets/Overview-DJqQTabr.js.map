@@ -1,0 +1,1 @@
+{"version":3,"file":"Overview-DJqQTabr.js","sources":["../../src/pages/statistics/Overview.tsx"],"sourcesContent":["const Overview = () => {\n  return <div>数据概览</div>\n}\n\nexport default Overview\n"],"names":["Overview","jsx"],"mappings":"kGAAA,MAAMA,EAAW,IACRC,EAAAA,IAAC,OAAI,SAAA,MAAA,CAAI"}
